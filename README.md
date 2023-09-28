@@ -2,9 +2,11 @@
 
 My desire is to create a responsive version of my portfolio using technologies such as bootstrap, jquery and the use of API to provide extra and useful functionalities to the portafolio.
 
-# Run local NodeJs server to test
+# Develop
 
-```bash
+### Run local NodeJs server to test
+
+```sh
 node webserver/server.js
 ```
 
