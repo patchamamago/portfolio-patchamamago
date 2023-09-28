@@ -11,3 +11,4 @@ node webserver/server.js
 - [Bootstrap](https://getbootstrap.com/docs/4.6/getting-started/introduction/) 
 - NodeJS (optional to test local develop)
 - [Hover.css](https://ianlunn.github.io/Hover/)
+- [Fontawesome](https://fontawesome.com/search?q=books&o=r&m=free)
