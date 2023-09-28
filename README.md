@@ -1,5 +1,7 @@
 # Portafolio project
 
+My desire is to create a responsive version of my portfolio using technologies such as bootstrap, jquery and the use of API to provide extra and useful functionalities to the 
+
 # Run local NodeJs server to test
 
 ```sh
