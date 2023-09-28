@@ -1,6 +1,6 @@
 # Portafolio project
 
-# Run local NodeJs server to do tests
+# Run local NodeJs server to test
 
 ```sh
 node webserver/server.js
