@@ -16,3 +16,4 @@ node webserver/server.js
 - NodeJS (optional to test local develop)
 - [Hover.css](https://ianlunn.github.io/Hover/)
 - [Fontawesome](https://fontawesome.com/search?q=books&o=r&m=free)
+- [Github Statistics](https://github.com/anuraghazra/github-readme-stats)
