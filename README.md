@@ -8,5 +8,6 @@ node webserver/server.js
 
 # Credits
 
-- Bootstrap 
+- [Bootstrap](https://getbootstrap.com/docs/4.6/getting-started/introduction/) 
 - NodeJS (optional to test local develop)
+- [Hover.css](https://ianlunn.github.io/Hover/)
