@@ -1,0 +1,13 @@
+{
+  "name": "portafolio",
+  "version": "1.0.0",
+  "description": "My desire is to create a responsive version of my portfolio using technologies such as bootstrap, jquery and the use of API to provide extra and useful functionalities to the portafolio.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node webserver/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
