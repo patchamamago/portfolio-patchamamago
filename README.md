@@ -18,3 +18,4 @@ node webserver/server.js
 - [Fontawesome](https://fontawesome.com/search?q=books&o=r&m=free)
 - [Github Statistics](https://github.com/anuraghazra/github-readme-stats)
 - [Github API Reference](https://docs.github.com/en/rest/users?apiVersion=2022-11-28)
+- [Desig for Hackers tips](https://designforhackers.com/blog/justify-text-html-css)
