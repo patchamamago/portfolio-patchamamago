@@ -46,6 +46,10 @@ function fetchGitHubInformation(event) {
         return;
     }
 
+
+    $("#gh-stats").html(`
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=${username}&show_icons=true&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=${username}&layout=compact&custom_title=Github Most Used Languages" />`);
     $("#gh-user-data").html(
         `<div id="loader">
             <img src="assets/css/loader.gif" alt="loading..." />
