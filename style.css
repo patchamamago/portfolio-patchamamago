@@ -3,7 +3,7 @@
   background-color: black;
 }
 
-.nav-link:hover {
+.nav-link:hover, .text-primary {
   color: #008000 !important;
 }
 
