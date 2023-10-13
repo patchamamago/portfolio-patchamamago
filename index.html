@@ -295,16 +295,15 @@
 
                 <div class="col-lg-6">
                     <!-- form fields -->
-                    <form>
-                        <input type="text" class="form-control form-control-lg" placeholder="Name">
-                        <input type="email" class="form-control mt-3" placeholder="Email">
+                    <form onsubmit="return sendMail(this);">
+                        <input type="text" name="name" class="form-control" id="fullname" placeholder="Name" form-control-lg required/>
+                        <input type="email" class="form-control mt-3" name="emailaddress" class="form-control" id="emailaddress" placeholder="Email" required/>
                         <input type="text" class="form-control mt-3" placeholder="Subject">
                         <div class="mb-3 mt-3">
-                            <textarea class="form-control" rows="5" id="comment" name="text" placeholder="Project Details"></textarea>
+                            <textarea class="form-control" rows="5" name="projectsummary"  id="projectsummary" placeholder="Project Description" required></textarea>
                         </div>
                     </form>
-                    <button type="button" class="btn btn-success mt-3">Contact Me</button>
-                
+                    <button type="submit" class="btn btn-success mt-3">Contact Me</button>         
                 </div>
 
             </div>
@@ -316,18 +315,11 @@
         <div class="container-fluid">
             <!-- social media icons -->
             <div class="row">
-                <div class="col-lg-4">
-                    <h3>Location</h3>
-                        <p>
-                            Berlin, Germany                    
-                        </p>
-                </div>
-                <div class="social-icons col-lg-4">
+                <div class="social-icons col-lg-12">
                     <a href="https://www.linkedin.com/in/urquioladev/" target="_blank"><i class="fab fa-linkedin"></i></a>
                     <a href="https://github.com/patchamama" target="_blank"><i class="fab fa-github"></i></a>
                 </div>
-                <div class="col-lg-4">
-                    <h3>Download</h3>
+                <div class="col-lg-12">
                     <p>Need a printable version of my CV? Download it here. 
                     <a href="assets/cv/sample-cv.pdf" target="_blank" class="cv-pdf">
                         <i class="fa fa-download" aria-hidden="true"></i>
