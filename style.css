@@ -3,6 +3,9 @@
   background-color: black;
 }
 
+.download-link {
+  color: #000000;
+}
 .nav-link:hover, .text-primary {
   color: #008000 !important;
 }
