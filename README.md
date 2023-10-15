@@ -23,3 +23,7 @@ Live web site [here](https://patchamama.github.io/portfolio/)
 - En contacto el enlace al email no debe de aparecer en azul
 - Agregar los proyectos portafolios a linkedid y también la url del portfolio (urquiola.dev)
 - Cambiar el color de fondo del footer
+
+# Credits
+
+- https://github.com/patchamama/portfolio-ideas
