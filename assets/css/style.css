@@ -2,15 +2,20 @@
 h1, h5 {
   padding: 20px;  
 }
+
+h4 {
+  color: #9f6739;
+}
+
 /* display background color black on navbar scroll */
 .navbarScroll.navbarDark {
   background-color: black;
 }
 
-.download-link {
+.download-link, .point-end {
   color: #000000;
 }
-.nav-link:hover, .text-primary {
+.nav-link:hover {
   color: #008000 !important;
 }
 
