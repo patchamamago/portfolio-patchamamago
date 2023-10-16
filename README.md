@@ -3,6 +3,8 @@ HTML, CSS, JavaScript and Bootstrap 5 Portfolio Website
 =======
 
 Live web site [here](https://patchamama.github.io/portfolio/)
+Website online [here](https://urquiola.dev)
+CV in [google docs](https://docs.google.com/document/d/1zjWSW-lI_z0l2wSYdrKWYwFAwqJnoDU7YGQCafOAs1Y/edit)
 
 # Tools used 
 
