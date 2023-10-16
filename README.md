@@ -15,9 +15,9 @@ Live web site [here](https://patchamama.github.io/portfolio/)
 
 # Por hacer o comprobar
 
-- Chequear todos los enlaces
+- ~~Chequear todos los enlaces~~
 - ~~Subir la página a http://urquiola.dev~~
-- Poner el currículum en pdf y subirlo
+- ~~Poner el currículum en pdf y subirlo~~
 - ~~Poner iconos de Front End, .... en naranja o verde, así como texto y Work History, también en los títulos de los porfolio projects e iconos de Contact Me~~
 - ~~crear correo me@urquiola.dev~~
 - ~~En contacto el enlace al email no debe de aparecer en azul~~
