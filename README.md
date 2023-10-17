@@ -33,6 +33,7 @@ CV in [google docs](https://docs.google.com/document/d/1zjWSW-lI_z0l2wSYdrKWYwFA
 
 # Credits
 
+- https://www.freecodecamp.org/news/how-to-create-a-portfolio-website-using-html-css-javascript-and-bootstrap/
 - https://github.com/patchamama/portfolio-ideas
 - https://getbootstrap.com/docs/4.0/utilities/colors/
 - https://stackoverflow.com/questions/48406628/bootstrap-align-button-to-the-bottom-of-card
