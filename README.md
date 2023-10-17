@@ -6,6 +6,10 @@ Live web site [here](https://patchamama.github.io/portfolio/)
 Website online [here](https://urquiola.dev)
 CV in [google docs](https://docs.google.com/document/d/1zjWSW-lI_z0l2wSYdrKWYwFAwqJnoDU7YGQCafOAs1Y/edit)
 
+# Search Jobs
+
+- https://talentifi.co/job-categories/web-mobile-software-jobs/
+
 # Tools used 
 
 * HTML, CSS and JavaScript
