@@ -35,3 +35,6 @@ CV in [google docs](https://docs.google.com/document/d/1zjWSW-lI_z0l2wSYdrKWYwFA
 
 - https://github.com/patchamama/portfolio-ideas
 - https://getbootstrap.com/docs/4.0/utilities/colors/
+- https://stackoverflow.com/questions/48406628/bootstrap-align-button-to-the-bottom-of-card
+- https://getbootstrap.com/docs/4.1/utilities/sizing/
+- https://stackoverflow.com/questions/51708491/make-bootstrap-card-same-height
