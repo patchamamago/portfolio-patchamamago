@@ -3,9 +3,15 @@ h1, h5 {
   padding: 20px;  
 }
 
+h5 {
+  font-weight: 300;
+}
+
 h4 {
   color: #9f6739;
 }
+
+
 
 /* display background color black on navbar scroll */
 .navbarScroll.navbarDark {
@@ -187,8 +193,15 @@ For Laptop or small-size screen: 768px -1024px
 For Desktop or large-size screen: 1024px -1200px
 For Extra-large size device: 1200px and more */
 
+@media screen and (min-width: 480px) {
+
+}
+
 @media screen and (max-width: 480px) {
   .social-icons {
     padding-top: 0;
+  }
+  .card {
+    height: auto;
   }
 }
