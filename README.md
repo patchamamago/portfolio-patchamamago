@@ -22,6 +22,7 @@ CV in [google docs](https://docs.google.com/document/d/1zjWSW-lI_z0l2wSYdrKWYwFA
 # Por hacer o comprobar
 
 - Poner alt en imágenes para que se muestre el hint en los lenguajes de programación que dominio.
+- Agregar enlace a los lenguajes de programación 
 - Agregar parte de enviar correo desde formulario....
 - ~~Chequear todos los enlaces~~
 - ~~Subir la página a http://urquiola.dev~~
