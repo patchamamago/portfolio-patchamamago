@@ -31,7 +31,7 @@ CV in [google docs](https://docs.google.com/document/d/1zjWSW-lI_z0l2wSYdrKWYwFA
 - ~~Poner iconos de Front End, .... en naranja o verde, así como texto y Work History, también en los títulos de los porfolio projects e iconos de Contact Me~~
 - ~~crear correo me@urquiola.dev~~
 - ~~En contacto el enlace al email no debe de aparecer en azul~~
-- ~~Agregar los proyectos portafolios a linkedid~~ y también la url del portfolio (urquiola.dev)
+- ~~Agregar los proyectos portafolios a linkedid~~ y también la url del portfolio (urquiola.dev),
 - ~~Cambiar el color de fondo del footer~~
 - Chequear otros portfolios para ideas (https://getbootstrap.com/docs/4.0/utilities/colors/)
 
